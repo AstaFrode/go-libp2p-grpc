@@ -3,8 +3,8 @@ package libp2pgrpc
 import (
 	"context"
 
-	gostream "github.com/libp2p/go-libp2p-gostream"
-	"github.com/libp2p/go-libp2p/core/host"
+	gostream "github.com/AstaFrode/go-libp2p-gostream"
+	"github.com/AstaFrode/go-libp2p/core/host"
 	"google.golang.org/grpc"
 )
 

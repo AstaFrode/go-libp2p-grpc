@@ -4,8 +4,8 @@ import (
 	"context"
 	"net"
 
-	gostream "github.com/libp2p/go-libp2p-gostream"
-	"github.com/libp2p/go-libp2p/core/peer"
+	gostream "github.com/AstaFrode/go-libp2p-gostream"
+	"github.com/AstaFrode/go-libp2p/core/peer"
 	"google.golang.org/grpc"
 )
 

@@ -1,8 +1,8 @@
 package libp2pgrpc
 
 import (
-	"github.com/libp2p/go-libp2p/core/host"
-	"github.com/libp2p/go-libp2p/core/protocol"
+	"github.com/AstaFrode/go-libp2p/core/host"
+	"github.com/AstaFrode/go-libp2p/core/protocol"
 )
 
 // ClientOption allows for functional setting of options on a Client.
